@@ -1,0 +1,33 @@
+{
+  "name": "knighkit-publish",
+  "title": "knighkit publish a knighkit project",
+  "description": "发布一个knighkit项目，包括打包js css，检索所需的图片等文件，发布到一个文件夹中。",
+  "version": "0.0.1",
+  "homepage": "",
+  "engines": {"node": ">=0.8.0"},
+  "author": {
+    "name": "KnightWu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wulijian/knighkit-publish.git"
+  },
+  "bugs": {
+    "url": "XXX"
+  },
+  "bin": {
+    "kp": "./bin/kp"
+  },
+  "dependencies": {
+    "shelljs": "latest",
+    "consoleplusplus": "latest",
+    "jspacker": "latest",
+    "clean-css": "latest",
+    "optimist": "latest"
+  },
+  "keywords": [
+    "publish",
+    "project",
+    "nodejs"
+  ]
+}

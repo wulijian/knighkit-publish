@@ -1,0 +1,12 @@
+docs/
+src/
+tests/
+tools/
+CNAME
+*.ico
+*.md
+*.xml
+*.yml
+*.iml
+.*
+*~
