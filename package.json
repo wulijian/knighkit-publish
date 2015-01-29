@@ -23,7 +23,7 @@
     "consoleplusplus": "latest",
     "jspacker": "latest",
     "clean-css": "latest",
-    "mimer": "latest",
+    "mime": "latest",
     "optimist": "latest"
   },
   "keywords": [
