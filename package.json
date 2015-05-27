@@ -2,7 +2,7 @@
   "name": "knighkit-publish",
   "title": "knighkit publish a knighkit project",
   "description": "发布一个knighkit项目，包括打包js css，检索所需的图片等文件，发布到一个文件夹中。",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "",
   "engines": {"node": ">=0.8.0"},
   "author": {
